@@ -210,4 +210,4 @@ Write code to create a scatterplot showing the relationship between GDP per capi
 
 ## Task 9: Commit & Push & Issue
 
--   Refer back to the instructions for Step 2 and Step 3 on the course website to complete the assignment 02b: <https://ds4owd-002.github.io/website/assignments/md-02/am-02-1-data-visualisation.html#step-2-commit-and-push-your-changes>
+-   Refer back to the instructions for Step 2 and Step 3 on the course website to complete the assignment 02b: <https://ds4owd-002.github.io/website/content/assignments/md-02/am-02-1-data-visualisation.html#step-2-commit-and-push-your-changes>
